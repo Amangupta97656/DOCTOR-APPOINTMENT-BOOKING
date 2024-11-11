@@ -1,8 +1,3 @@
-# DOCTOR-APPOINTMENT-BOOKING
- Here's an updated README file with clone and prerequisites instructions:
-
----
-
 # DOCTOR APPOINTMENT BOOKING WEB APP
 
 [GitHub Repository](https://github.com/Amangupta97656/DOCTOR-APPOINTMENT-BOOKING.git)
